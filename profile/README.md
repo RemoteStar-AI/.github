@@ -1,4 +1,4 @@
-<h1 align="center">RemoteStar</h1>
+<p align="center"><img src="logo.png" alt="RemoteStar" width="256"></p>
 
 <p align="center"><strong>Hire 10x faster with bias-free AI intelligence.</strong></p>
 
