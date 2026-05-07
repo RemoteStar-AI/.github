@@ -1,4 +1,4 @@
-<h1 align="center">RemoteStar</h1>
+<p align="center"><img src="logo.png" alt="RemoteStar" width="256"></p>
 
 <p align="center"><strong>Hire 10x faster with bias-free AI intelligence.</strong></p>
 
@@ -68,6 +68,6 @@ The founder's reel on what workplaces should actually measure (results, not scre
 - **Email:** hello@remotestar.io
 - **Phone:** +44 208 163 4236
 - **Office:** RemoteStar Ltd, 42-44 Bishopsgate, London, EC2N 4AH
-- **Social:** [LinkedIn](https://linkedin.com/company/remotestar) · [Instagram](https://instagram.com/remotestar.io) · [X](https://x.com/remotestar_io)
+- **Social:** [LinkedIn](https://linkedin.com/company/remotestar) · [Instagram](https://www.instagram.com/remotestar_io/) · [X](https://x.com/RemoteStario)
 
 <p align="center"><sub>© 2026 RemoteStar Ltd</sub></p>
